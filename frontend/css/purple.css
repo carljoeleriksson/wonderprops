@@ -1,0 +1,10 @@
+/* Purple */
+:root {
+	--dark-color: #42283E;
+	--dark-color-filter: invert(11%) sepia(51%) saturate(664%) hue-rotate(258deg) brightness(94%) contrast(83%);
+	--light-color: #FAF9F9;
+	--light-color-filter: invert(100%) sepia(1%) saturate(7463%) hue-rotate(215deg) brightness(141%) contrast(95%);
+	--light-color-dark: #e7e3e3;
+	--contrast-color: #BC809D;
+	--contrast-dark: #9e6c84;
+}

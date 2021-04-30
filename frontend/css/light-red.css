@@ -1,0 +1,10 @@
+/* Light-Red */
+:root {
+	--dark-color: #D65C56;
+	--dark-color-filter: invert(42%) sepia(86%) saturate(535%) hue-rotate(315deg) brightness(91%) contrast(82%);
+	--light-color: #E6E2DB;
+	--light-color-filter: invert(100%) sepia(2%) saturate(1564%) hue-rotate(317deg) brightness(92%) contrast(95%);
+	--light-color-dark: #c2bdb4;
+	--contrast-color: #286D83;
+	--contrast-dark: #1e5466;
+}

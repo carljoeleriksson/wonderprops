@@ -1,0 +1,13 @@
+
+/* DEFAULT THEME */
+:root {
+	--dark-color: #243946;
+	--dark-color-filter: invert(16%) sepia(42%) saturate(491%) hue-rotate(159deg) brightness(103%) contrast(90%);
+	--light-color: #EFDFDF;
+	--light-color-filter: invert(100%) sepia(0%) saturate(4540%) hue-rotate(299deg) brightness(118%) contrast(75%);
+	--light-color-dark: #e6c7c7;
+	--contrast-color: #C97171;
+	--contrast-dark: #af6363;
+}
+
+/* HEX to CSS-FILTER Generator https://codepen.io/sosuke/pen/Pjoqqp */

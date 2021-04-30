@@ -1,0 +1,10 @@
+/* BLUE */
+:root {
+	--dark-color: #455996;
+	--dark-color-filter: invert(34%) sepia(89%) saturate(282%) hue-rotate(185deg) brightness(88%) contrast(102%);
+	--light-color: #F8F6F1;
+	--light-color-filter: invert(93%) sepia(2%) saturate(1594%) hue-rotate(322deg) brightness(108%) contrast(94%);
+	--light-color-dark: #F8F6F1;
+	--contrast-color: #D1A56C;
+	--contrast-dark: #bd8c4d;
+}

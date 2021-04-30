@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "name": "The One Ring",
+      "price": "666",
+      "img": "http://cdn.shopify.com/s/files/1/0664/7299/products/theonering_grande.jpg?v=1430156479",
+      "description": "A ring which rules all other rings. See package leaflet for side effects.",
+      "id": "dlH2"
+    },
+    {
+      "name": "Infinite Improbability Drive",
+      "price": "500",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57293ad3-e587-4387-a6e9-753bdff1e13d/d2yaxx0-c71409d9-93e4-408e-b4c6-159d7a38a395.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNTcyOTNhZDMtZTU4Ny00Mzg3LWE2ZTktNzUzYmRmZjFlMTNkXC9kMnlheHgwLWM3MTQwOWQ5LTkzZTQtNDA4ZS1iNGM2LTE1OWQ3YTM4YTM5NS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.WCcFDZuZ0Vcyvyh9-VgKJjAV-r98Jd8lxnI7hOr8JhM",
+      "description": "A wonderful new method of crossing vast interstellar distances in a mere nothingth of a second.",
+      "id": "MLYR"
+    },
+    {
+      "name": "The Elder Wand",
+      "price": "1099",
+      "img": "https://i.ebayimg.com/images/g/ZewAAOSwn1FbLFCC/s-l640.jpg",
+      "description": "Worlds most powerful wand. Got a few cracks but works like a charm.",
+      "id": "vanD"
+    },
+    {
+      "name": "T-Rex",
+      "price": "500",
+      "img": "https://images.theconversation.com/files/200952/original/file-20180105-26154-1wiqvem.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+      "description": "Full size, high-maintainence T-Rex. Needs food on a regular basis.",
+      "id": "f1yp"
+    },
+    {
+      "name": "Lasso Of Truth",
+      "price": "999",
+      "img": "https://atlas-content-cdn.pixelsquid.com/assets_v2/11/1191579236670903738/jpeg-600/G15.jpg?modifiedAt=1",
+      "description": "A beautiful golden lasso, with advanced truth-compelling properties.",
+      "id": "Xqm0"
+    },
+    {
+      "name": "White Walker",
+      "price": "9.95",
+      "img": "https://pbs.twimg.com/profile_images/723147097634119680/3C9EFvtu_400x400.jpg",
+      "description": "Healthy white walker male with glowing blue eyes.",
+      "id": "tpH-"
+    },
+    {
+      "name": "Lightsaber",
+      "price": "99",
+      "img": "https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/6106047623151-2?fmt=jpeg&qlt=90&wid=652&hei=652",
+      "description": "Regular lightsaber with practical clip hook for attaching to utility belt.",
+      "id": "pjlb"
+    },
+    {
+      "name": "Iron Man Suit",
+      "price": "699",
+      "img": "http://cdn.shopify.com/s/files/1/2270/3643/products/20190610175456_1024x.jpg?v=1569326985",
+      "description": "Red armored suit in size medium with a lot of tricks up it’s sleeve.",
+      "id": "YVuv"
+    },
+    {
+      "name": "Batmans cape",
+      "price": "999",
+      "img": "https://media.takealot.com/covers_images/50333d6045b740d5868c7b4dbf787c2c/s-pdpxl.file",
+      "description": "Worn-in black cape with built in flight ability.",
+      "id": "ivw6"
+    },
+    {
+      "name": "Pippis braids",
+      "price": "39",
+      "img": "https://www.partyhallen.se/cache/95/799x799-b_pippi-langstrump-peruk-2.jpg",
+      "description": "Two small, red braids in great condition.",
+      "id": "Nb_b"
+    }
+  ],
+  "productsCount": 10,
+  "cart": [],
+  "cartCount": 0
+}

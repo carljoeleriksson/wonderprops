@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>WonderProps</title>
+	<!-- FAVICONS -->
+	<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+	<link rel="manifest" href="img/favicon/site.webmanifest">
+
+	<link rel="stylesheet" id="switcher-id" href="css/green.css"> <!-- This is the color-theme css-url that we're altering with setTheme() -->
+	<link rel="stylesheet" href="css/style.css">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+	<div class="wrapper">
+		<header>
+			
+			<img src="./img/header-shape.svg" class="header-shape"> <!-- Header BG-->
+			
+			<img src="img/magic-wand.svg" id="colorwand-btn" alt="Color-wand"> <!-- Wand BTN-->
+			<span id="glow-span"></span> <!-- An element for creating the glow arouond colorwand-btn, since the color of wand is changed by filter-->
+			
+			<a href="index.html"><h1>WonderProps</h1></a>
+			
+			<a href="#" id="cart"><img src="img/cart-icon.svg" class="cart-icon" alt="Cart"><span class="badge hidden"></span></a> <!-- CART BTN-->
+			<!--    SHOPPING CART   -->
+			<div class="container">
+				<div class="cart">
+					<div class="cart-header">
+						<div class="cart-count">
+							<img src="img/cart-icon.svg" class="cart-icon cart-icon-small" alt="Cart">
+							<span class="badge hidden"></span>
+						</div>
+						<div class="cart-total"><span>Total: <b></b></span></div>
+					</div>
+					<!--end shopping-cart-header -->
+					<ul class="cart-items"></ul>
+					<a href="#" class="button">Checkout</a> <!--Dummy button since we don't have a checkout -->
+				</div>
+				<!--end shopping-cart -->
+			</div>
+			<!--end container -->
+		</header>
+		
+		<!-- PRODUCT-PAGE -->
+		<main id="products">
+			<!-- Dynamically added content -->
+		</main>
+
+		<footer>
+			<!-- footer background -->
+			<img src="./img/footer-shape.svg" class="footer-shape">
+			<p>WonderProbs&trade;&copy; 2021</p>
+		</footer>
+	</div>
+
+	<script src="index.js"></script>
+</body>
+
+</html>
